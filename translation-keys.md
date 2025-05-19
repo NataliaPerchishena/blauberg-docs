@@ -2,7 +2,7 @@
 
 # BVU+UVU+ERV форма
 - лейбл для `location` - використовується функція `p_trans`
-- значення в drop-down списках для полів `supply_pre_heater`, `supply_heater`, `supply_post_heater`, `supply_cooler`, `temperature_settings_mode`  - группа `selects`
+- значення в `drop-down` списках для полів `supply_pre_heater`, `supply_heater`, `supply_post_heater`, `supply_cooler`, `temperature_settings_mode`  - группа `selects`
 - лейбл для `інші ключів`, які не перераховані вище - ключі `з відповідної групи`, імʼя якої = імені калькулятора (для bvu це группа ключів nrvu_bvu, uvu - nrvu_uvu, erv - erv_hrv)
 
 # MS+PCHRU форма
